@@ -1,0 +1,10 @@
+RabbitMQ 
+
+    O RabbitMQ é um sistema de mensageria open-source baseado no protocolo AMQP (Advanced Message Queuing Protocol). Ele facilita a comunicação assíncrona entre sistemas distribuídos, permitindo o envio e o recebimento de mensagens de maneira eficiente e escalável. Desenvolvido em Erlang, o RabbitMQ é altamente confiável e oferece recursos como filas, exchange e bindings para organizar e roteirizar mensagens.
+
+Ao utilizar RabbitMQ, as mensagens podem ser enviadas para diferentes filas, que funcionam como buffers temporários até que os consumidores as processem. Esse processo desacopla produtores e consumidores, aumentando a flexibilidade e escalabilidade dos sistemas. RabbitMQ também suporta mensagens persistentes, garantindo que, mesmo em caso de falhas, as mensagens não sejam perdidas.
+
+Entre os principais recursos, estão o clustering (para aumentar a disponibilidade e escalabilidade), load balancing, garantia de entrega e transações. O RabbitMQ é utilizado em diversos cenários, desde integração de sistemas legados até plataformas de microserviços, por sua capacidade de suportar alto volume de mensagens e sua robustez na entrega confiável.
+
+
+
